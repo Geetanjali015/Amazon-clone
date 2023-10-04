@@ -1,3 +1,5 @@
+# Amazon Clone
+
 Amazon homepage clone made by P.Geetanjali Reddy.\
 P.Geetanjali Reddy: RA2311003010017
 
